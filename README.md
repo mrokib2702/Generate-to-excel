@@ -13,7 +13,7 @@ YANG DI BUTUHKAN :
 - xlsxwriter.class.php
 
 CARA PENGGUNAAN :
-- Install PHP 8+
+- Install PHP 8+ https://windows.php.net/download#php-8.1
 - Install Cisco Anny Connect
 - Install SQL SERVER v18.+
 - Copy file user_info kedalam directory C:\Program Files (x86)\Cisco\Cisco AnyConnect Secure Mobility Client
