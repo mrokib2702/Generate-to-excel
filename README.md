@@ -2,8 +2,8 @@
 JOB TASK GENERATE DB TO EXCEL
 
 FUNGSI :
-Membuat Console Task, untuk melakukan Generate data dari DB ke file lokal dalam bentuk file excel.
-
+- Membuat Console Task, untuk melakukan Generate data dari DB ke file lokal dalam bentuk file excel.
+- Script auto connect dan disconnect vpn jika console job telah selesai
 
 YANG DI BUTUHKAN :
 - PHP 8+
