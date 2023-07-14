@@ -10,6 +10,7 @@ YANG DI BUTUHKAN :
 - cisco anny connect
 - SQL SERVER v18.+
 - PHP Cli
+- xlsxwriter.class.php
 
 CARA PENGGUNAAN :
 - Install PHP 8+
