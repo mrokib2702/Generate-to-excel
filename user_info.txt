@@ -1,0 +1,5 @@
+connect <alamat-server>
+Y
+<group>
+<username>
+<password>
