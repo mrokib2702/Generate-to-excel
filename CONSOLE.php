@@ -50,7 +50,7 @@
     if ($row_count === false){
       echo "\nerror\n";  
     }
-    else if ($row_count < 1) {
+    else if ($row_count == 1) {
         //echo "\n$row_count\n";
 
 
